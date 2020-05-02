@@ -95,7 +95,7 @@ body {
       rgba(10, 10, 10, 0) 50%,
       rgba(10, 10, 10, 0.7) 100%
     ),
-    url("images/13.jpg");
+    url("images/4.jpg");
 }
 
 .card:nth-child(5) {
@@ -145,7 +145,7 @@ body {
       rgba(10, 10, 10, 0) 50%,
       rgba(10, 10, 10, 0.7) 100%
     ),
-    url("images/15.jpg");
+    url("images/9.jpg");
 }
 
 .card:nth-child(1),
